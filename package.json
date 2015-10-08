@@ -1,0 +1,26 @@
+{
+  "name": "book_api",
+  "version": "1.0.0",
+  "description": "Repository for the BookAPI application developed on the \"RESTful Web Services with Node.js and Express\" course by Pluralsight, without using any specific IDE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiolouro/BookAPI.git"
+  },
+  "author": "caiolouro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiolouro/BookAPI/issues"
+  },
+  "homepage": "https://github.com/caiolouro/BookAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "mongoose": "^4.1.10"
+  }
+}
